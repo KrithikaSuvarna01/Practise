@@ -1,0 +1,1 @@
+//This FIle contains js functions related to String
