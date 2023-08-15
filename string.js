@@ -1,5 +1,9 @@
 //This FIle contains js functions related to String
-
+/**
+ * 
+ * @param {*} str 
+ * @returns 
+ */
 function lowerCase(str){
     return str.toLowerCase();
 }
